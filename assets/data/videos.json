@@ -1,0 +1,49 @@
+[{
+  "id": "1",
+  "createdAt": "5 months ago",
+  "title": "Build a Realtime Chat App in React Native (tutorial for beginners) 🔴  ",
+  "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail1.jpeg",
+  "videoUrl": "",
+  "duration": 660,
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "views": 379
+}, {
+  "id": "2",
+  "createdAt": "2 months ago",
+  "title": "🔴 Build the Uber clone in React Native (Tutorial for Beginners)",
+  "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail2.jpeg",
+  "videoUrl": "",
+  "duration": 2750,
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "views": 2057000
+}, {
+  "id": "3",
+  "createdAt": "2 months ago",
+  "title": "How Graham Stephan makes $4,578,896.32 a year on YouTube",
+  "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail3.jpeg",
+  "videoUrl": "",
+  "duration": 1090,
+  "user": {
+    "name": "Graham Stephan",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  "views": 9557000
+}, {
+  "id": "4",
+  "createdAt": "14 July 2021",
+  "title": "Rick And Morty | Season 5 Episode 1 | Full Show 🔴 ",
+  "thumbnail": "https://tvline.com/wp-content/uploads/2021/03/rick-and-morty-season-5-key-art.jpg?w=620",
+  "videoUrl": "",
+  "duration": 1434,
+  "user": {
+    "name": "Rick & Morty Fans",
+    "image": "https://e1.pngegg.com/pngimages/248/746/png-clipart-rick-and-morty-hq-resource-rick-and-morty-thumbnail.png"
+  },
+  "views": 1900871
+}]

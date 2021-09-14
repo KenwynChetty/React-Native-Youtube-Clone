@@ -1,0 +1,210 @@
+[{
+  "id": "1",
+  "createdAt": "5 months ago",
+  "comment": "Cool video!",
+  "user": {
+    "name": "Graham Stephan",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  "likes": 123,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "2",
+  "createdAt": "5 months ago",
+  "comment": "Thanks )",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "3",
+  "createdAt": "5 months ago",
+  "comment": "I Love The Outer Banks, Super Pumped For Season Two, Cant Wait To Just Binge It With Bunch Of Popcorn and Cooldrink",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://ampv1.herokuapp.com/static/blog/em1.png"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "4",
+  "createdAt": "5 months ago",
+  "comment": "OBX Season 2 is gonna be lit!!",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "5",
+  "createdAt": "5 months ago",
+  "comment": "Can't Wait, super keen!",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "6",
+  "createdAt": "5 months ago",
+  "comment": "Best Trailer Super Attrackting....",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://ampv1.herokuapp.com/static/blog/em1.png"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "7",
+  "createdAt": "5 months ago",
+  "comment": "Gonna be epic...",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "8",
+  "createdAt": "5 months ago",
+  "comment": "Thanks Netflix for making great content",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "9",
+  "createdAt": "5 months ago",
+  "comment": "Amazing Trailer :) ",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://ampv1.herokuapp.com/static/blog/em1.png"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "10",
+  "createdAt": "5 months ago",
+  "comment": "Thanks :)",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "11",
+  "createdAt": "5 months ago",
+  "comment": "30th July Super Excited :)",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "12",
+  "createdAt": "5 months ago",
+  "comment": "Thanks :)",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://ampv1.herokuapp.com/static/blog/em1.png"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "13",
+  "createdAt": "5 months ago",
+  "comment": "Thanks :)",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "14",
+  "createdAt": "5 months ago",
+  "comment": "Thanks :)",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "15",
+  "createdAt": "5 months ago",
+  "comment": "Yay super excited",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://ampv1.herokuapp.com/static/blog/em1.png"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "16",
+  "createdAt": "5 months ago",
+  "comment": "Super Excited for the 30th July 2021 OBX2",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "17",
+  "createdAt": "5 months ago",
+  "comment": "Netflix is a boss at content creation",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "18",
+  "createdAt": "5 months ago",
+  "comment": "Cant Wait OBX2 Super pumped",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://ampv1.herokuapp.com/static/blog/em1.png"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "19",
+  "createdAt": "5 months ago",
+  "comment": "Outer Banks Season 2 is Fire!!",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}]

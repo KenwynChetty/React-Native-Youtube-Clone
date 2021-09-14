@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-youtubeclone-staging-151256-authRole",
+      "UnauthRoleArn": "arn:aws:iam::064828969149:role/amplify-youtubeclone-staging-151256-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::064828969149:role/amplify-youtubeclone-staging-151256-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-youtubeclone-staging-151256-deployment",
+      "UnauthRoleName": "amplify-youtubeclone-staging-151256-unauthRole",
+      "StackName": "amplify-youtubeclone-staging-151256",
+      "StackId": "arn:aws:cloudformation:eu-west-1:064828969149:stack/amplify-youtubeclone-staging-151256/1e108f80-f3a4-11eb-86b3-0a3794feac41",
+      "AmplifyAppId": "deajief0crfwy"
+    }
+  }
+}
